@@ -1,3 +1,3 @@
-module github.com/soul-h/Go-Concurrency
+module Concurrency
 
 go 1.17
